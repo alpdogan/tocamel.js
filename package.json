@@ -1,0 +1,21 @@
+{
+  "name": "tocamel.js",
+  "version": "1.0.0",
+  "description": "convert your json file to camelcase",
+  "main": "tocamel.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "yargs": "11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tocamel",
+    "camelcase",
+    "camelcaseconverter"
+  ],
+  "author": "Tugrul Alpdogan",
+  "license": "MIT"
+}
